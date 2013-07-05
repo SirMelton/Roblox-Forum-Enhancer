@@ -1,5 +1,10 @@
 To-Do:
  - Continue with markdown parser (blocco)
+ - Delete Threads with title [ Content Deleted ]
+ - Block Users
+ - Need Design for Forum
+ - Create Basic Save and Load API
+ 
  
  
 Done:
