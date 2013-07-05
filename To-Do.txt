@@ -1,6 +1,5 @@
 To-Do:
- - 
- 
+ - Continue with markdown parser (blocco)
  
  
 Done:
